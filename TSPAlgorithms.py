@@ -48,5 +48,6 @@ class TSP:
         return path
 
     def branch_and_bound(self):
+        return
 
 
